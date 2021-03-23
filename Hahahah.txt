@@ -1,6 +1,9 @@
 isinya apa
 
 hasihdsahdkjhsa
+<<<<<<< HEAD
 sadsajdhj
 
 hihi
+=======
+>>>>>>> 677857e5f9783fb0bf8a3f110c39578844ecb594
