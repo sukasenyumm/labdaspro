@@ -1,0 +1,2 @@
+# labdaspro
+buat latihan aja
